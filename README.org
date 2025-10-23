@@ -16,13 +16,15 @@ Assuntos, competências e habilidades que se destacam por serem muito úteis ou 
 | Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          | [[file:importantes/como_estudar.org][clique aqui]] |
 | Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e específica.                                | [[file:importantes/como_perguntar.org][clique aqui]] |
 | Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. | [[file:importantes/como_ajudar.org][clique aqui]] |
+| Como Praticar  | Aprenda como organizar e separar seus projetos práticos para evoluir suas habilidades.             | [[file:importantes/como_praticar][clique aqui]] |
+|                |                                                                                                    |             |
 |----------------+----------------------------------------------------------------------------------------------------+-------------|
 * Desenvolvimento
 Artigos relacionados as linguagens de programações, lógica, framework e outros.
 ** Linguagens
 
 |-------------+--------|
-| Linguagem   | Link   |
+| Linguagem   | Artigo |
 |-------------+--------|
 | C-ANSI      | [[https://github.com/rahvax/c-lang-alfheim][Rahvax]] |
 | ASM x86     | [[https://github.com/rahvax/asmx86-lang-alfheim][Rahvax]] |
