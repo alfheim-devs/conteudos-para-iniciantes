@@ -22,10 +22,10 @@ Assuntos, competências e habilidades que se destacam por serem muito úteis ou 
 Artigos relacionados as linguagens de programações, lógica, framework e outros.
 ** Linguagens
 
-|-------------+--------|
-| Linguagem   | Artigo |
-|-------------+--------|
-| C-ANSI      | [[https://github.com/rahvax/c-lang-alfheim][Rahvax]] |
-| ASM x86     | [[https://github.com/rahvax/asmx86-lang-alfheim][Rahvax]] |
-| Rust        | [[https://github.com/gabehellz/rust-lang-alfheim][Kinash]] |
-|-------------+--------|
+|-----------+-----------+--------|
+| Linguagem | Descrição | Artigo |
+|-----------+-----------+--------|
+| C-ANSI    |           | [[https://github.com/rahvax/c-lang-alfheim][Rahvax]] |
+| ASM x86   |           | [[https://github.com/rahvax/asmx86-lang-alfheim][Rahvax]] |
+| Rust      |           | [[https://github.com/gabehellz/rust-lang-alfheim][Kinash]] |
+|-----------+-----------+--------|
