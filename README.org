@@ -2,18 +2,35 @@
 
 O propósito deste projeto é servir de guia para aprendizado e orientação sobre diferentes assuntos, tecnologias, especializações, profissões, ou o que mais julgarmos importante.
 
-* Assuntos Importantes
-Assuntos, competências e habilidades que se destacam por serem muito úteis ou importantes para inúmeros assuntos diferentes.
-
-| Assunto        | Descrição                                                                                          | Link        |
-|----------------+----------------------------------------------------------------------------------------------------+-------------|
-| Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          | [[file:importantes/como_estudar.org][clique aqui]] |
-| Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e específica.                                | [[file:importantes/como_perguntar.org][clique aqui]] |
-| Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. | [[file:importantes/como_ajudar.org][clique aqui]] |
-
-
 * Comunidade
 Somos uma comunidade aberta de amigos entusiasta e profissionais em diversas áreas, que decidiu se reunir em um lugar para conversar (não só tecnologia) e gastar o tempo junto. Não temos muitas regras e somos bem livres nos assuntos, desde que não seja uma pessoa insuportável.
 - [[https://discord.gg/qTgfcN6ct7][Discord]]
 - [[https://github.com/aeternustm][Aeternus]]
 - [[https://github.com/alfheim-devs][Alfheim]]
+
+* Assuntos Importantes
+Assuntos, competências e habilidades que se destacam por serem muito úteis ou importantes para inúmeros assuntos diferentes.
+|----------------+----------------------------------------------------------------------------------------------------+-------------|
+| Assunto        | Descrição                                                                                          | Link        |
+|----------------+----------------------------------------------------------------------------------------------------+-------------|
+| Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          | [[file:importantes/como_estudar.org][clique aqui]] |
+| Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e específica.                                | [[file:importantes/como_perguntar.org][clique aqui]] |
+| Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. | [[file:importantes/como_ajudar.org][clique aqui]] |
+|----------------+----------------------------------------------------------------------------------------------------+-------------|
+* Desenvolvimento
+Artigos relacionados as linguagens de programações, lógica, framework e outros.
+** Linguagens
+
+|-------------+--------|
+| Linguagem   | Link   |
+|-------------+--------|
+| C-ANSI      | [[https://github.com/rahvax/c-lang-alfheim][Rahvax]] |
+| ASM x86     | [[https://github.com/rahvax/asmx86-lang-alfheim][Rahvax]] |
+| Rust        | [[https://github.com/gabehellz/rust-lang-alfheim][Kinash]] |
+| Python      |        |
+| CPP         |        |
+| JavaScript  |        |
+| TypeScript  |        |
+| ASM AARCH64 |        |
+| C#          |        |
+|-------------+--------|
