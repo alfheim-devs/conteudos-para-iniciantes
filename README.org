@@ -10,3 +10,10 @@ Assuntos, competências e habilidades que se destacam por serem muito úteis ou 
 | Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          | [[file:importantes/como_estudar.org][clique aqui]] |
 | Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e específica.                                | [[file:importantes/como_perguntar.org][clique aqui]] |
 | Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. | [[file:importantes/como_ajudar.org][clique aqui]] |
+
+
+* Comunidade
+Somos uma comunidade aberta de amigos entusiasta e profissionais em diversas áreas, que decidiu se reunir em um lugar para conversar (não só tecnologia) e gastar o tempo junto. Não temos muitas regras e somos bem livres nos assuntos, desde que não seja uma pessoa insuportável.
+- [[https://discord.gg/qTgfcN6ct7][Discord]]
+- [[https://github.com/aeternustm][Aeternus]]
+- [[https://github.com/alfheim-devs][Alfheim]]
