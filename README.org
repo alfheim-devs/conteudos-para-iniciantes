@@ -26,7 +26,7 @@ Artigos, roadmaps, explicações e acervo de conteúdos relacionados a linguagen
 |-----------+------------------------------------------------+--------|
 | Linguagem | Descrição                                      | Artigo |
 |-----------+------------------------------------------------+--------|
-| C-ANSI    | pouca vida social e muita leitura | [[https://github.com/rahvax/c-lang-alfheim][Rahvax]] |
-| ASM x86   | Linguagem de montagem orientada a calvice e espaguete | [[https://github.com/rahvax/asmx86-lang-alfheim][Rahvax]] |
+| C-ANSI    | pouca vida social e muita leitura | [[https://github.com/rahvax/dicas-c-alfheim][Rahvax]] |
+| ASM x86   | Linguagem de montagem orientada a calvice e espaguete |  |
 | Rust      | Linguagem de programação orientada a ~.unwrap()~ |        |
 |-----------+------------------------------------------------+--------|
