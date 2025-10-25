@@ -1,4 +1,5 @@
 #+title: Como Praticar Habilidades
 Uma das coisas mais fáceis de serem ignoradas em estudantes é, incrivelmente, a que mais dá para eles a capacidade de entender: a prática! É quase impossível aprender uma habilidade sem você investir um tempo em praticar o que você sabe sobre ela para que te permita enfrentar problemas, visualizar a execução e entender novos pontos que precisam ser pesquisados e melhorados.
+
 Você não vai evoluir como programador somente lendo livros e consumindo cursos como louco, deixando de investir um tempo maior ou proporcional de praticar o que aprendeu e desenvolver projetos, para poder enfrentar problemas e quebrar a cabeça sobre suas habilidades; isso é uma das principais formas de evolução. E isso também vale para outras áreas, como Segurança Ofensiva, onde você precisa ainda mais visualizar a execução de habilidades e conceitos para conseguir entendê-los completamente. Hoje o que vou ensinar são boas práticas para você praticar seus conhecimentos coerentemente, e claro, uma observação importante é que vou dar foco exclusivamente para programação, considerando ser a habilidade que mais abrange áreas que serão abordadas.
   
