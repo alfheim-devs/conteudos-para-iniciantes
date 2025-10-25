@@ -1,0 +1,58 @@
+#+title: Como Praticar Habilidades
+Uma das coisas mais fáceis de serem ignoradas em estudantes é, incrivelmente, a que mais dá para eles a capacidade de entender: a prática! É quase impossível aprender uma habilidade sem você investir um tempo em praticar o que você sabe sobre ela para que te permita enfrentar problemas, visualizar a execução e entender novos pontos que precisam ser pesquisados e melhorados.
+
+Você não vai evoluir como programador somente lendo livros e consumindo cursos como louco, deixando de investir um tempo maior ou proporcional de praticar o que aprendeu e desenvolver projetos, para poder enfrentar problemas e quebrar a cabeça sobre suas habilidades; isso é uma das principais formas de evolução. E isso também vale para outras áreas, como Segurança Ofensiva, onde você precisa ainda mais visualizar a execução de habilidades e conceitos para conseguir entendê-los completamente. Hoje o que vou trazer são sugestões para você praticar seus conhecimentos coerentemente, e claro, uma observação importante é que vou dar foco exclusivamente para programação, considerando ser a habilidade que mais abrange áreas que serão abordadas.
+
+* Observação Importante
+Antes de tudo, quero deixar claro que estou escrevendo esse artigo somente com minha visão pessoal e experiência em busca de orientação para quem precisa. Não fiz nada aqui pensando que artigo de Fulano ou Ciclano diz que alguma coisa lá na psicologia funciona assim.
+
+As fontes são minha experiência e as certezas são também minha experiência pessoal. Fique livre para corrigir, fazer comentários ou declarar seu conhecimento em alguma dessas coisas. Mas nem tudo é sobre artigos e estudos aprofundados, muitas coisas são baseadas somente em transmitir uma nova visão e uma experiência, e é isso que você deve esperar de mim. Não desmereço o quanto estudos sérios e reconhecidos são feitos, ou metodologias de estudos, somente não quero passar algo que já tem milhares de coisas na internet e que pode não ser o que você precisa.
+
+Pense nisso como uma conversa entre eu e você, onde você me perguntou o que acho necessário para praticar e esse textão todo sou eu te dizendo. Sou extremamente prolixo (escrevo muito) e dou muitas voltas em uma explicação, então considere que isso é meu jeito e não uma tentativa de crescer ego ou me provar certo, só não consigo me expressar tão diretamente.
+
+** Lógica de Programação
+Passo vários momentos pensando algumas coisas no quanto se tornaram distorcidas ao longo do tempo, e na tecnologia não é diferente. Hoje em dia, eu vejo muitas pessoas falarem do quanto é necessário a lógica de programação para estudar, mas realmente entendem o que é isso?
+
+Claro, se eu for no Google e pesquisar sobre lógica de programação, vou encontrar várias respostas variadas, mas tenho uma interpretação própria e pessoal sobre o que é realmente lógica de programação: experiência. Lógica de programação é sua capacidade de planejar um projeto, de resolver problemas, de interpretar um código somente lendo por conta própria. Não me entenda mal, para algumas pessoas é muito importante passar por essa fase de lógica de programação para conseguirem compreender; meu problema é com o quanto as pessoas esquecem que lógica de programação não é exatamente algo que você vai ganhar lendo sobre lógica de programação! Ela é sobre você ir botar as mãos em um código e passar por erros, problemas, experiências, pesquisas e outros. 
+
+Muitas pessoas, como eu, simplesmente aprenderam lógica de programação pegando uma linguagem e tentando, refazendo, testando e experimentando até entender; e você pode ser diferente! Algumas pessoas vão ter mais dificuldades, isso é normal na vida, mas não se apegue demais à ideia de que você precisa estudar lógica de programação separadamente ou como se fosse uma super habilidade de programadores. A grande maioria de nós apanhou e teve tanta dificuldade como qualquer outro, e com repetição e esforço começou a entender o que fazer só de pensar no como um programa deve agir.
+
+Claro, isso não é a definição exata e nem correta, mas é mais minha visão pessoal sobre lógica de programação baseada na minha experiência ao longo desse tempo como programador. Muitas vezes, só programar pequenos projetos básicos ensina mais que livros de lógica de programação.
+
+** Uso de LLM
+Um dos grandes destaques atuais são os modelos LLM, os quais são os modelos generativos como ChatGPT e Gemini. Não me entenda errado, os modelos são muito úteis para vários assuntos, mas modelos assim não são feitos para serem usados como se fosse um segundo cérebro pensando por você!
+
+Hoje em dia, as pessoas estão se viciando cada vez mais em usar esses modelos para tudo, de uma simples pergunta a resolver problemas complexos. Questionar algo e ir pesquisar e tentar não é só uma tarefa chata, é um passo extremamente importante do aprendizado, onde você está colocando o que sabe à prova com suas capacidades de entendimento e pesquisa desse assunto. Essa capacidade é fundamental para desenvolver sua capacidade de resolver problemas e quebrar a cabeça por conta própria, e o uso de modelos generativos se torna viciante justamente por você começar a usar nos momentos em que deveria estar refletindo.
+
+Isso não é só um problema de desenvolvimento na programação, é também um problema de hábito! Onde o vício em usar modelos generativos te torna inapto para fluir sua própria criatividade e lógica de programação, e começará a se sentir em uma crise de impostor: sentindo-se incapaz de realizar coisas por conta própria e cada vez mais vai depender de ir confirmar coisas básicas ao modelo até para projetos que você deveria estar pensando sozinho! Não estou afirmando que não deve usar nunca, mas use para coisas que realmente são fundamentais. Modelos generativos são algo que você vai usar para tirar dúvidas, confirmar informações e sempre de forma extremamente vigilante com suas respostas, é passível de gerações que não representam uma experiência profissional de fato. 
+
+Fora que o contato humano ainda é muito melhor, já que não só é necessário aprender a trabalhar com pessoas, como também ainda é a melhor forma de transmitir experiência real e conhecimento real. 
+  
+** Projetos Pessoais
+Algo que fiz e me trouxe uma experiência enorme na minha vida, e uma referência do quanto consegui evoluir, são projetos pessoais que me seguiram durante todas as fases da minha vida. Claro, nem todo mundo vai começar um projeto que vai durar a vida toda, mas você pode criar projetos que vão te seguir durante seu tempo de estudo e aprofundamento.
+
+Se hoje você for começar a estudar a linguagem C, você em algum momento vai parar de fazer pequenos programas de calculadoras e listas e começar a sentir que precisa desenvolver um projeto mais relevante para sentir que está evoluindo, e é onde vai entrar esse tópico: desenvolver um projeto que vai te acompanhar durante essa fase para que você possa visualizar suas evoluções por você mesmo. Continuando no exemplo do C, você poderia desenvolver uma biblioteca de manipulação de arquivos, por exemplo, que você vai tornando cada vez mais dinâmica e útil conforme você aprende mais, saindo de uma biblioteca muito estática para uma muito bem flexível para todas as situações da sua vida. Isso, na minha visão, é uma das coisas que mais te ajudam a fugir do sentimento de /impostor/ que pode aparecer e te desanimar de você mesmo.
+
+Mas não se limite a um só projeto, ou um só tipo, é somente um exemplo! Troque biblioteca por gerenciador de agenda para te ajudar a estudar, um despertador, um programa que conserte algum trabalho chato e repetitivo da sua vida, entre outros. Muitos programadores não dependem em si de terem mentes geniais para desenvolverem projetos, a grande maioria deles nasce da *necessidade* de possuir aquilo. O próprio *GIT* nasceu para resolver um problema do Linus Torvalds no desenvolvimento do Linux, e estamos falando do gerenciador de versionamento mais importante atualmente do mundo; uma necessidade dele foi a resolução das necessidades de milhares de programadores no mundo. Está acordando atrasado? Não baixe um despertador, faça um você mesmo! Sentir necessidade e desenvolver é uma ótima forma de praticar!  
+
+Então, como resolução deste tópico, eu quero resumir rapidamente que você deve ter projetos pessoais seus que envolvam necessidades suas no dia a dia, que podem ser úteis para você mesmo e com suas habilidades. Não tente criar o novo Linux ou Git, tente criar aquilo que você vai precisar e NUNCA desista! Programação é uma forma bem parecida com o que a ciência moderna faz: é encontrar uma solução e resposta para necessidades ou perguntas que temos, e não ser um gênio desenvolvedor de projetos. 
+
+** Resolução de Problemas
+Programação é, em essência, uma habilidade onde você consegue solucionar um problema através da automação ou algoritmos. Um exemplo engraçado meu é quando estava sem celular e, para ter um despertador, eu fiz um simples em C para me ajudar.
+
+Resolver problemas é uma ótima forma de colocar seu conhecimento em campo e perceber onde falta estudar, descobrir novas visões e aprender a pesquisar eficientemente. Você pode tanto resolver desafios em plataformas próprias para isso, como também pode usar sua própria rotina como um desafio de solução. Citando novamente o despertador, eu tive um problema e me desafiei a ter uma solução própria. Muitas vezes você pode refletir sobre dificuldades do seu dia a dia e coisas que se repetem muito, e então projetar soluções em algoritmos para isso.
+
+Esses tipos de desafios são muito eficientes para te ajudar a pensar com a mentalidade de um programador, encontrar ideias de pequenos projetos e também ajudar você mesmo a sentir que está evoluindo por pequenos projetos e resoluções inteligentes.
+
+** Experimente
+Não fique só lendo um código em um livro, conversa ou exemplo: faça! Programar é exatamente você abrir seu editor favorito e ver acontecendo, compreender o que está fazendo e os motivos disso acontecer. Não se limite a só ler e anotar, pegue um código e veja o que acontece para cada mudança.
+
+Você aprendeu algo novo, então pense nas formas que isso poderia ser quebrado e tente quebrar, nas formas que isso pode ser melhorado e tente. Não se preocupe em falhar, ou em não dar em nada; a questão é o caminho, o processo, não o resultado. Deixe seu entendimento fluir de verdade e não coloque limites próprios em ler livros e livros como um mago em uma torre querendo sair deles um gênio, na vida real as coisas são repetição e prática em conjunto com a teoria.
+
+** Não Tenha Pressa
+Não coloque pressão demais em você! Para todo mundo, programar já foi assustador ou muito complexo e aprendemos com o tempo. Não sou um gênio e nem diferente de você, só muito provavelmente tive mais tempo estudando e mais experiências e então criei uma boa visão sobre.
+
+Então não fique se comparando com idades, pessoas ou pensando que você é incapaz. Talvez você não tenha tanta afinidade quanto algumas pessoas, mas nada te impede de se esforçar e buscar novas formas de te auxiliar a entender algo. Está difícil pensar? Busque orientação! Não conseguiu resolver algo e nem pesquisar? Busque orientação! Solicite ajuda, exponha reflexões e tente novamente até entender. No começo pode parecer que você não consegue, mas você vai conseguir e vai sentir uma ótima sensação cada vez que conseguir aprender algo difícil.
+
+* Conclusão
+Após tudo isso quero deixar claro novamente que é feito totalmente pela minha visão e experiência, não estou me baseando em nenhum tipo de artigo ou estudo. Então leve em consideração isso! Sinta-se livre para contribuir comigo, me pedir ajuda ou dar sugestões tanto ao Discord, quanto pelo GitHub!
