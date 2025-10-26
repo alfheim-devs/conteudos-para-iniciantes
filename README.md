@@ -20,12 +20,12 @@ livres nos assuntos, desde que não seja uma pessoa insuportável.
 Assuntos, competências e habilidades que se destacam por serem muito
 úteis ou importantes para inúmeros assuntos diferentes.
 
-  Assunto          Descrição                                                                                            Link
-  ---------------- ---------------------------------------------------------------------------------------------------- -----------------------------------------------
-  Como Estudar     Aprenda técnicas e abordagens para melhorar seus estudos.                                            [clique aqui](importantes/como_estudar.org)
-  Como Perguntar   Aprenda como perguntar e pedir ajuda de maneira clara e opinativa.                                   [clique aqui](importantes/como_perguntar.org)
-  Como Ajudar      Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta.   [clique aqui](importantes/como_ajudar.org)
-  Como Praticar    Aprenda como organizar e separar seus projetos práticos para evoluir suas habilidades.               [clique aqui](importantes/como_praticar.org)
+| Assunto        | Descrição                                                                                          | Link                                          |
+|----------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          |                                               |
+| Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e opinativa.                                 | [clique aqui](importantes/como_perguntar.org) |
+| Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. |                                               |
+| Como Praticar  | Aprenda como organizar e separar seus projetos práticos para evoluir suas habilidades.             | [clique aqui](importantes/como_praticar.org)  |
 
 # Desenvolvimento
 
@@ -37,8 +37,8 @@ outros.
 Artigos, roadmaps, explicações e acervo de conteúdos relacionados a
 linguagens de programações.
 
-  Linguagem   Descrição                                               Artigo
-  ----------- ------------------------------------------------------- ----------------------------------------------------------------------
-  C-ANSI      pouca vida social e muita leitura                       [Rahvax](https://github.com/rahvax/artigos-alfheim/tree/main/c-lang)
-  ASM x86     Linguagem de montagem orientada a calvice e espaguete   
-  Rust        Linguagem de programação orientada a `.unwrap()`        
+| Linguagem | Descrição                                             | Link                                                                 |
+|-----------|-------------------------------------------------------|----------------------------------------------------------------------|
+| C-ANSI    | pouca vida social e muita leitura                     | [Rahvax](https://github.com/rahvax/artigos-alfheim/tree/main/c-lang) |
+| ASM x86   | Linguagem de montagem orientada a calvice e espaguete |                                                                      |
+| Rust      | Linguagem de programação orientada a `.unwrap()`      |                                                                      |
