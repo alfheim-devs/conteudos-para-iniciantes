@@ -208,6 +208,20 @@ no lugar certo. Por isso, antes de perguntar:
 Se você seguir todos esses passos, dificilmente a sua pergunta passará
 batido pelas comunidades e fóruns de tecnologia.
 
+# Após Perguntar
+
+Supondo que alguém deu atenção à sua pergunta, lhe respondeu com uma
+explicação enorme e você não entendeu muito bem, não tenha medo de fazer
+novas perguntas. Ainda mais quando existem vários termos técnicos que você
+desconhece.
+
+Nesse caso, fazer "perguntas idiotas" não é ruim. Se no meio da explicação
+alguém fala sobre, por exemplo, "race condition", perguntar "o que é race condition?"
+não é uma pergunta idiota.
+
+Dificilmente, você irá entender a explicação da pessoa se você ler novamente.
+Por isso, faça perguntas. Não tenha medo.
+
 # Referências
 
 -   <https://nohello.net/>
