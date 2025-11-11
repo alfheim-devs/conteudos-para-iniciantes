@@ -11,10 +11,6 @@ diversas áreas, que decidiu se reunir em um lugar para conversar (não só
 tecnologia) e gastar o tempo junto. Não temos muitas regras e somos bem
 livres nos assuntos, desde que não seja uma pessoa insuportável.
 
--   [Discord](https://discord.gg/qTgfcN6ct7)
--   [Aeternus](https://github.com/aeternustm)
--   [Alfheim](https://github.com/alfheim-devs)
-
 # Assuntos Importantes
 
 Assuntos, competências e habilidades que se destacam por serem muito
